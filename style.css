@@ -6,6 +6,7 @@ body {
   justify-content: center;
   background-color: hsl(233, 47%, 7%);
   height: 100vh;
+  overflow-y: hidden;
 }
 
 section {
